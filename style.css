@@ -1,0 +1,59 @@
+body, html{
+  height:100%;
+  margin:0;
+}
+.panelContainer{
+  height:100%;
+  margin:0;
+  display: flex;
+}
+.bg{
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /*<p> centering*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p{
+  color: grey;
+}
+/*images got from https://unsplash.com/*/
+/*image compress via https://www.iloveimg.com/ko*/
+#panel1{
+  background-image:url("./image/panel1img.jpg");
+}
+#panel2{
+  background-image:url("./image/panel2img.jpg");
+}
+#panel3{
+  background-image:url("./image/panel3img.jpg");
+}
+#panel4{
+  background-image:url("./image/panel4img.jpg");
+}
+#panel5{
+  background-image:url("./image/panel5img.jpg");
+}
+
+/*
+make animation with css(ease in - ease out)
+https://www.w3schools.com/css/tryit.asp?filename=trycss3_animation_speed
+*/
+
+/*
+'transition' property also can be used to make ani
+*/
+
+/*
+.column{
+  make column way1
+  flex: 25%;
+  max-width: 25%;
+
+  make column way2
+  flex-grow: 1;
+}
+*/
