@@ -11,7 +11,7 @@ No installation. Just fork this repository and pull it to your local enviroment,
 Press your mouse left button on image panel you want to open in five panels. Then corresponding animations, which are open image and magnify paenl word, will be generated. Multi selection is allowed.
 
 <p align="center">
-  <img width="50%" src="./image/1.png">
+  <img width="80%" src="./image/1.png">
 </p>
 
 ### And coding style tests
