@@ -17,7 +17,7 @@ Press your mouse left button on image panel you want to open in five panels. The
 ### And coding style tests
 
 - Add two animation connect function.
-- Use 'ease in, ease out' on panel open aniation.
+- Use 'ease in, ease out' on panel open animation.
 
 ## Built With
 No frameworks x No compilers x No libraries x No boilerplate. Vanilla JavaScript!
