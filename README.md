@@ -5,7 +5,7 @@ Interactive flex model image panels gallery(Vanilla javascript coding challenge 
 This is a interactive image gallery.
 
 ## Running the tests
-No installation. Just fork this repository and pull it to your local enviroment, run index.html on internet browser(in my case, Chrome).
+No installation. Just fork this repository and pull it to your local enviroment, run index.html on internet browser(in my case, Chrome). Or click [here](https://ginnyang2.github.io/javascript30-FlexPanelsImgGallery)
 
 ### Break down into end to end tests
 Press your mouse left button on image panel you want to open in five panels. Then corresponding animations, which are open image and magnify paenl word, will be generated. Multi selection is allowed.
